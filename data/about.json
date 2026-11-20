@@ -1,0 +1,34 @@
+{
+ "region": "인천 연수구 송도동",
+ "nameEn": "Yonsei University International Campus",
+ "added": "2026-10-17",
+ "rank": 99,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "INU",
+   "campus": "인천대학교 송도캠퍼스",
+   "km": 3.7
+  },
+  {
+   "code": "SNU-SIHEUNG",
+   "campus": "서울대학교 시흥캠퍼스",
+   "km": 4.5
+  },
+  {
+   "code": "GACHON-MEDICAL",
+   "campus": "가천대학교 메디컬캠퍼스",
+   "km": 4.7
+  },
+  {
+   "code": "TUKOREA",
+   "campus": "한국공학대학교",
+   "km": 7.0
+  },
+  {
+   "code": "INHATC",
+   "campus": "인하공업전문대학",
+   "km": 7.5
+  }
+ ]
+}
